@@ -15,21 +15,17 @@ Clear prediction results: Displays both the predicted species and prediction pro
 
 Install required libraries:
 
-```
-Bash
+```Bash
 pip install streamlit pandas numpy pickle sklearn
-Use code with caution.
-Download the model file:
 ```
 
+Download the model file:
 Download the penguins_clf.pkl file from the repository.
 Place it in the same directory as the app file.
 Run the app:
 
-```
-Bash
+```Bash
 streamlit run app.py
-Use code with caution.
 ```
 
 ## Usage:
