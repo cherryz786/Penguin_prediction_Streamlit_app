@@ -55,9 +55,10 @@ Random Forest classifier trained using scikit-learn.
 ## Project Structure:
 
 ```
-├── app.py                 # Streamlit app file
-├── penguins_cleaned.csv   # Cleaned dataset
-├── penguins_clf.pkl       # Saved model file
-└── README.md              # This file
+├── penguins-app.py                 # Streamlit app file
+├── penguins-model-building.py      # Model Building file
+├── penguins_cleaned.csv            # Cleaned dataset
+├── penguins_clf.pkl                # Saved model file
+└── README.md                       # This file
 ```
 
