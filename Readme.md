@@ -66,8 +66,11 @@ This project is licensed under the MIT License.
 ## Project Structure:
 
 ├── app.py   # Streamlit app file
+
 ├── penguins_cleaned.csv  # Cleaned dataset
+
 ├── penguins_clf.pkl  # Saved model file
+
 └── README.md  # This file
 
 
