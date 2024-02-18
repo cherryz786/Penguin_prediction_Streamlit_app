@@ -19,10 +19,7 @@ Install required libraries:
 pip install streamlit pandas numpy pickle sklearn
 ```
 
-Download the model file:
-Download the penguins_clf.pkl file from the repository.
-Place it in the same directory as the app file.
-Run the app:
+Download the penguins_clf.pkl file from the repository, place it in the same directory as the app file then run the app:
 
 ```Bash
 streamlit run app.py
